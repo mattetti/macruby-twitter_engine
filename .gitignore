@@ -1,0 +1,4 @@
+.DS_Store
+*/.DS_Store
+lib/*.dSYM
+src/MGTwitterEngine/MGTwitterEngine.xcodeproj/mattetti.*

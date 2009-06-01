@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CFBundleDevelopmentRegion</key>
+		<string>English</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.apple.xcode.dsym.twitter_engine.bundle</string>
+		<key>CFBundleInfoDictionaryVersion</key>
+		<string>6.0</string>
+		<key>CFBundlePackageType</key>
+		<string>dSYM</string>
+		<key>CFBundleSignature</key>
+		<string>????</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0</string>
+		<key>CFBundleVersion</key>
+		<string>1</string>
+		<key>dSYM_UUID</key>
+		<dict>
+			<key>i386</key>
+			<string>D894D633-414B-A7CF-C7ED-2E9CB14EBB2F</string>
+			<key>ppc</key>
+			<string>62FED5D7-7B7E-A4DC-C77B-E9E06CB04640</string>
+			<key>ppc64</key>
+			<string>EE27EEF6-74C2-AB3F-D331-CC4B39496A27</string>
+			<key>x86_64</key>
+			<string>8AB334A2-0189-EECE-7C7A-1728893A10BA</string>
+		</dict>
+	</dict>
+</plist>
